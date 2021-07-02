@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AinaDingo
-- 👀 I’m interested in Java
+- 👀 I’m interested in Java, JavaScript, C#
 - 🌱 I’m currently learning Spring boot
 - 💞️ I’m looking to collaborate on java develloper
 - 📫 How to reach me skkype rojonyaina2
