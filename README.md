@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AinaDingo
-- 👀 I’m interested in Java, JavaScript, C#
-- 🌱 I’m currently learning Spring boot
-- 💞️ I’m looking to collaborate on java develloper
-- 📫 How to reach me skkype rojonyaina2
+- 👀 I’m interested in Java, JavaScript, and their respective framework and library, DevOps
+- 🌱 I’m currently learning AWS others DevOps tools
+- 💞️ I’m looking to collaborate on develloper or DevOps
+- 📫 How to reach me : https://www.linkedin.com/in/rojonyainarakoto/
 
 <!---
 AinaDingo/AinaDingo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
